@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.nav{
+    background-color: pink;
+    margin: 0;
+    width: 100%;
+}
+
+
+.nav .nav-tabs {
+    font-family: 'Poppins', sans-serif;
+    height: 90px;
+    padding-top: 50px;
+    padding-left: 20px;
+}
+
+.nav .nav-link {
+    text-decoration: none;
+    color: black;
+}
+
+
+main{
+    background-image: url(../imagenes/depositphotos_79571838-paper-texture-template.jpg);
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+main h1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 40px;
+    padding-left: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+main h4 {
+    padding-top: 10px;
+    padding-left: 50px;
+    font-family: 'Alex Brush', cursive;
+    font-size: 30px;
+}
+
+.destacadostaff {
+    padding-left: 300px;
+}
+
+main h5 {
+    padding-top: 10px;
+    font-family: 'Alex Brush', cursive;
+    font-size: 30px;
+}
+
+
+.texto {
+    padding-left: 60px;
+    font-family:'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+#carouselExampleAutoplaying {
+    padding-left: 80px;
+    height: 120%;
+    width: 65%;
+}
+
+main video {
+    height: 50%;
+    width: 20%;
+}
+
+main img {
+    height: 50%;
+    width: 35%;
+}
+
+.frase-de-video {
+    font-family: 'Alex Brush', cursive;
+    font-size: 30px;
+    padding-left: 0;
+}
+
+.imagencontacto {
+    width: 200%;
+}
+
+.imagencard1 {
+    width: 250%;
+    height: 250%;
+}
+
+.imagencard2 {
+    width: 250%;
+    height: 250%;
+}
+
+.imagencard3 {
+    width: 250%;
+    height: 250%;
+}
+
+.imagencard4 {
+    width: 250%;
+    height: 250%;
+}
+
+footer{
+    background-color: pink;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+footer p{
+    padding-top: 5px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
