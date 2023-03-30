@@ -1,0 +1,14 @@
+//barra de navegación
+.nav {
+    background-color: pink;
+    & .nav-tabs {
+        font-family: 'Poppins', sans-serif;
+        padding-left: 30px;
+        padding-top: 30px;
+        height: 10vh;
+        }
+    & .nav-links {
+        text-decoration: none;
+        color: black;
+        }  
+    } 
